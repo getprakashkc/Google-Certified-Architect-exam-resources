@@ -133,8 +133,8 @@
 | Mobile (Firebase) |   | Free Tier  |
 |---|---|---|
 | Realtime Database | Real-time Data Synchronization | 100 Connections 1GB Stored |
-| Cloud Firestore | Document Store and Sync | 1GB Stored |
-| Cloud Storage | File Storage and Serving | 5GB Stored |
+| [Cloud Firestore](https://firebase.google.com/docs/firestore) | Document Store and Sync | 1GB Stored |
+| [Cloud Storage](https://cloud.google.com/storage/) | File Storage and Serving | 5GB Stored |
 | Hosting | Web Hosting with CDN/SSL | 1GB Store / 10GB per Month Transfer |
 | Authentication | Drop-in Authentication | Free |
 | Cloud Functions | Event-driven Serverless Applications | 125K Invocations/Month |
